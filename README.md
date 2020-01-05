@@ -1,4 +1,4 @@
-# [nock.netlify.com/](https://nock.netlify.com/)
+# [nock](https://nock.netlify.com/)
 
 My personal blog. Forked from [gaearon overreacted.io](https://github.com/gaearon/overreacted.io.git). 
 
