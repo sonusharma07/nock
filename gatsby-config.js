@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: 'Overreacted',
-    author: 'Dan Abramov',
-    description: 'Personal blog by Dan Abramov. I explain with words and code.',
-    siteUrl: 'https://overreacted.io',
+    title: 'Nock',
+    author: 'Sonu Sharma',
+    description: 'Personal blog by Sonu Sharma.',
+    siteUrl: 'https://nock.netlify.com/',
     social: {
-      twitter: '@dan_abramov',
+      twitter: '@SonuSharma0702',
     },
   },
   pathPrefix: '/',
